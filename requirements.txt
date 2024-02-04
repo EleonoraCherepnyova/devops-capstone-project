@@ -1,5 +1,6 @@
 # Pin dependancies that might cause breakage
 Flask-Talisman
+Flask-Cors
 Werkzeug==2.1.2
 SQLAlchemy==1.4.46
 
